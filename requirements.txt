@@ -1,0 +1,7 @@
+numpy==1.24.3
+scikit-learn==1.2.2
+Flask==2.2.2
+pickle4
+requests==2.29.0
+gunicorn
+
